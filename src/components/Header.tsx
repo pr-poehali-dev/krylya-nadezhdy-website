@@ -27,9 +27,7 @@ const Header = () => {
             </div>
             <div>
               <h1 className="text-xl font-bold text-gray-900">Название</h1>
-              <p className="text-sm text-sky-100">
-                Государственная организация
-              </p>
+              <p className="text-sm text-sky-100"></p>
             </div>
           </div>
 
