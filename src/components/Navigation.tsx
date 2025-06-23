@@ -78,10 +78,10 @@ const Navigation = () => {
     >
       <div className="max-w-7xl mx-auto">
         <div className="text-center mb-12">
-          <h2 className="text-3xl font-bold text-gray-900 mb-4">
+          <h2 className="text-3xl font-bold text-white mb-4">
             Разделы портала
           </h2>
-          <p className="text-lg text-gray-600 max-w-2xl mx-auto">
+          <p className="text-lg text-sky-100 max-w-2xl mx-auto">
             Выберите интересующий вас раздел для получения подробной информации
           </p>
         </div>

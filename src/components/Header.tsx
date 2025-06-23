@@ -26,10 +26,8 @@ const Header = () => {
               />
             </div>
             <div>
-              <h1 className="text-xl font-bold text-gray-900">
-                Крылья надежды
-              </h1>
-              <p className="text-sm text-gray-600">
+              <h1 className="text-xl font-bold text-white">Крылья надежды</h1>
+              <p className="text-sm text-sky-100">
                 Государственная организация
               </p>
             </div>
