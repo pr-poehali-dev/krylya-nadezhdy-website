@@ -9,7 +9,7 @@ const Footer = () => {
           {/* Organization Info */}
           <div className="md:col-span-2">
             <div className="flex items-center space-x-3 mb-4">
-              <div className="bg-blue-600 rounded-lg p-2">
+              <div className="bg-sky-500 rounded-lg p-2">
                 <Icon
                   name="Wings"
                   className="h-6 w-6 text-white"
@@ -152,7 +152,7 @@ const Footer = () => {
           <div className="flex items-start space-x-3">
             <Icon
               name="Info"
-              className="h-5 w-5 text-blue-400 mt-0.5 flex-shrink-0"
+              className="h-5 w-5 text-sky-400 mt-0.5 flex-shrink-0"
             />
             <div>
               <h5 className="font-medium text-white mb-1">Доступность сайта</h5>

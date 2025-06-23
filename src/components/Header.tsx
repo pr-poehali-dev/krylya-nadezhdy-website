@@ -18,7 +18,7 @@ const Header = () => {
         <div className="flex items-center justify-between h-16">
           {/* Logo and Title */}
           <div className="flex items-center space-x-4">
-            <div className="flex-shrink-0 bg-blue-600 rounded-lg p-2">
+            <div className="flex-shrink-0 bg-sky-400 rounded-lg p-2">
               <Icon
                 name="Wings"
                 className="h-8 w-8 text-white"
@@ -43,25 +43,25 @@ const Header = () => {
           >
             <Button
               variant="ghost"
-              className="text-gray-700 hover:text-blue-600 hover:bg-blue-50"
+              className="text-gray-700 hover:text-sky-600 hover:bg-sky-50"
             >
               Главная
             </Button>
             <Button
               variant="ghost"
-              className="text-gray-700 hover:text-blue-600 hover:bg-blue-50"
+              className="text-gray-700 hover:text-sky-600 hover:bg-sky-50"
             >
               Новости
             </Button>
             <Button
               variant="ghost"
-              className="text-gray-700 hover:text-blue-600 hover:bg-blue-50"
+              className="text-gray-700 hover:text-sky-600 hover:bg-sky-50"
             >
               Родителям
             </Button>
             <Button
               variant="ghost"
-              className="text-gray-700 hover:text-blue-600 hover:bg-blue-50"
+              className="text-gray-700 hover:text-sky-600 hover:bg-sky-50"
             >
               Контакты
             </Button>
@@ -93,55 +93,55 @@ const Header = () => {
             <div className="flex flex-col space-y-2">
               <Button
                 variant="ghost"
-                className="justify-start text-gray-700 hover:text-blue-600 hover:bg-blue-50"
+                className="justify-start text-gray-700 hover:text-sky-600 hover:bg-sky-50"
               >
                 Главная
               </Button>
               <Button
                 variant="ghost"
-                className="justify-start text-gray-700 hover:text-blue-600 hover:bg-blue-50"
+                className="justify-start text-gray-700 hover:text-sky-600 hover:bg-sky-50"
               >
                 Новости
               </Button>
               <Button
                 variant="ghost"
-                className="justify-start text-gray-700 hover:text-blue-600 hover:bg-blue-50"
+                className="justify-start text-gray-700 hover:text-sky-600 hover:bg-sky-50"
               >
                 Родителям
               </Button>
               <Button
                 variant="ghost"
-                className="justify-start text-gray-700 hover:text-blue-600 hover:bg-blue-50"
+                className="justify-start text-gray-700 hover:text-sky-600 hover:bg-sky-50"
               >
                 Специалистам
               </Button>
               <Button
                 variant="ghost"
-                className="justify-start text-gray-700 hover:text-blue-600 hover:bg-blue-50"
+                className="justify-start text-gray-700 hover:text-sky-600 hover:bg-sky-50"
               >
                 Работодателю
               </Button>
               <Button
                 variant="ghost"
-                className="justify-start text-gray-700 hover:text-blue-600 hover:bg-blue-50"
+                className="justify-start text-gray-700 hover:text-sky-600 hover:bg-sky-50"
               >
                 Полезные сайты
               </Button>
               <Button
                 variant="ghost"
-                className="justify-start text-gray-700 hover:text-blue-600 hover:bg-blue-50"
+                className="justify-start text-gray-700 hover:text-sky-600 hover:bg-sky-50"
               >
                 Вопрос-ответ
               </Button>
               <Button
                 variant="ghost"
-                className="justify-start text-gray-700 hover:text-blue-600 hover:bg-blue-50"
+                className="justify-start text-gray-700 hover:text-sky-600 hover:bg-sky-50"
               >
                 Профориентация
               </Button>
               <Button
                 variant="ghost"
-                className="justify-start text-gray-700 hover:text-blue-600 hover:bg-blue-50"
+                className="justify-start text-gray-700 hover:text-sky-600 hover:bg-sky-50"
               >
                 Контакты
               </Button>
