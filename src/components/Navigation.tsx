@@ -72,7 +72,7 @@ const Navigation = () => {
 
   return (
     <section
-      className="py-16 px-4 bg-white"
+      className="py-16 px-4 bg-[#FFFFFF]"
       role="navigation"
       aria-label="Основные разделы"
     >
